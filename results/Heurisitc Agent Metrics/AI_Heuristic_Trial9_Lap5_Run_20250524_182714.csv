@@ -1,0 +1,34 @@
+Metric,Value
+Agent Type,Heuristic_Trial9_Lap5
+Completion Time (s),208.8763
+Collision Count,0
+Distance Traveled (m),2877.568
+Average Speed (m/s),13.86836
+Maximum Speed (m/s),15.43564
+Minimum Speed (m/s),0.0981
+Speed Standard Deviation,1.429344
+Speed Consistency,0.8969349
+Average Steering Angle (deg),0.7801359
+Maximum Steering Angle (deg),34.13989
+Steering Smoothness,0.9956659
+Average Acceleration (m/s²),19.33305
+Maximum Acceleration (m/s²),801.0969
+Average Path Deviation (m),0
+Maximum Path Deviation (m),0
+
+Lap Data
+Lap,StartTime,EndTime,LapTime,AvgSpeed,MaxSpeed,MinSpeed,AvgSteering,MaxSteering,AvgAccel,MaxAccel,PathDeviation,Collisions,Efficiency
+1,0.000,42.308,41.584,13.729,15.436,0.098,0.816,34.140,19.492,801.097,0.000,0,1.000
+2,42.308,83.923,41.615,13.923,15.000,2.769,0.713,33.168,17.625,769.092,0.000,0,1.000
+3,83.923,125.693,41.769,13.825,14.998,5.514,0.778,12.908,19.405,295.482,0.000,0,1.000
+4,125.693,167.319,41.627,13.922,15.000,7.347,0.832,24.674,20.706,620.704,0.000,0,1.000
+5,167.319,208.876,41.557,13.945,15.000,4.851,0.761,19.777,19.436,500.188,0.000,0,1.000
+
+Lap Summary
+Metric,Value
+Total Laps,5
+Best Lap Time,41.557
+Worst Lap Time,41.769
+Average Lap Time,41.630
+Lap Time Consistency,0.998
+Time Efficiency,0.9933702
