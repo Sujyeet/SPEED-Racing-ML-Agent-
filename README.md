@@ -12,7 +12,7 @@ This project uses Unity ML-Agents to train and compare racing agents.
 
 
 
-\ Folders
+## Folders
 
 \- `docs/`: Project report and documentation
 
@@ -26,7 +26,7 @@ This project uses Unity ML-Agents to train and compare racing agents.
 
 
 
-\ How to Use
+## How to Use
 
 1\. Open the Unity project and add the agent scripts.
 
